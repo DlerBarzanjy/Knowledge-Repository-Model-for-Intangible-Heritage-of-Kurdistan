@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<rss_feed>
+  <MaxEntries>10</MaxEntries>
+  <GenerateRSS>False</GenerateRSS>
+  <link><![CDATA[http://your_web_site.com/]]></link>
+  <language>en</language>
+  <ttl>1140</ttl>
+</rss_feed>

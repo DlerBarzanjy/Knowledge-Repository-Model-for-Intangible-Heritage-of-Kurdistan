@@ -1,0 +1,85 @@
+.cLinkHidden {position:absolute; visibility:hidden; left:0px; top:0px; width:0px; height:0px; overflow:hidden;}
+.cPage {visibility:visible;overflow:hidden;position:absolute;z-index:1;left:0px;top:0px;}
+.cLMImagePage {width:1024px;height:1200px;border:0px;}
+.cImg1 {visibility:visible;overflow:hidden;position:absolute;z-index:2;left:0px;top:203px;}
+.cLMImageImg1 {width:1024px;height:997px;border:0px;}
+.cImg4 {visibility:visible;overflow:hidden;position:absolute;z-index:3;left:229px;top:0px;}
+.cLMImageImg4 {width:795px;height:614px;border:0px;}
+.cGbackground {visibility:visible;overflow:hidden;position:absolute;z-index:4;left:0px;top:0px;width:0px;height:0px;}
+.cGCompany {visibility:visible;overflow:hidden;position:absolute;z-index:5;left:0px;top:0px;width:0px;height:0px;}
+.cGWelcome {visibility:visible;overflow:hidden;position:absolute;z-index:6;left:0px;top:0px;width:0px;height:0px;}
+.cG_News {visibility:visible;overflow:hidden;position:absolute;z-index:7;left:0px;top:0px;width:0px;height:0px;}
+.cBox6 {visibility:visible;overflow:hidden;position:absolute;z-index:8;left:45px;top:84px;}
+.cLMImageBox6 {width:900px;height:40px;border:0px;}
+.cGmenu {visibility:visible;overflow:hidden;position:absolute;z-index:9;left:0px;top:0px;width:0px;height:0px;}
+.cGProduct1 {visibility:visible;overflow:hidden;position:absolute;z-index:10;left:0px;top:0px;width:0px;height:0px;}
+.cGProduct2 {visibility:visible;overflow:hidden;position:absolute;z-index:11;left:0px;top:0px;width:0px;height:0px;}
+.cGbottom {visibility:visible;overflow:hidden;position:absolute;z-index:12;left:0px;top:0px;width:0px;height:0px;}
+.cBox1 {visibility:visible;overflow:hidden;position:absolute;z-index:13;left:48px;top:131px;}
+.cLMImageBox1 {width:900px;height:260px;border:0px;}
+.cGbanner {visibility:visible;overflow:hidden;position:absolute;z-index:14;left:0px;top:0px;width:0px;height:0px;}
+.cBox5 {visibility:visible;overflow:hidden;position:absolute;z-index:15;left:345px;top:401px;}
+.cLMImageBox5 {width:600px;height:40px;border:0px;}
+.cBox4 {visibility:visible;overflow:hidden;position:absolute;z-index:16;left:346px;top:440px;}
+.cLMImageBox4 {width:600px;height:300px;border:0px;}
+.cText3 {visibility:visible;position:absolute;z-index:17;left:385px;top:407px;width:307px;height:18px;}
+.cLMTxtText3 {visibility:inherit;padding:0 0 0 0px;position:relative;left:0px;top:0px;width:307px;height:18px;}
+.cBox8 {visibility:visible;overflow:hidden;position:absolute;z-index:18;left:354px;top:788px;}
+.cLMImageBox8 {width:280px;height:300px;border:0px;}
+.cBox7 {visibility:visible;overflow:hidden;position:absolute;z-index:19;left:358px;top:750px;}
+.cLMImageBox7 {width:280px;height:40px;border:0px;}
+.cLine5 {visibility:visible;overflow:hidden;position:absolute;z-index:20;left:377px;top:837px;}
+.cLMImageLine5 {width:240px;height:13px;border:0px;}
+.cText12 {visibility:visible;position:absolute;z-index:21;left:398px;top:756px;width:143px;height:18px;}
+.cLMTxtText12 {visibility:inherit;padding:0 0 0 0px;position:relative;left:0px;top:0px;width:143px;height:18px;}
+.cBox9 {visibility:visible;overflow:hidden;position:absolute;z-index:22;left:662px;top:750px;}
+.cLMImageBox9 {width:289px;height:40px;border:0px;}
+.cText17 {visibility:visible;position:absolute;z-index:23;left:702px;top:756px;width:143px;height:18px;}
+.cLMTxtText17 {visibility:inherit;padding:0 0 0 0px;position:relative;left:0px;top:0px;width:143px;height:18px;}
+.cImg15 {visibility:visible;overflow:hidden;position:absolute;z-index:24;left:48px;top:129px;}
+.cLMImageImg15 {width:896px;height:253px;border:0px;}
+.cText46 {visibility:visible;position:absolute;z-index:25;left:141px;top:-1px;width:694px;height:76px;}
+.cLMTxtText46 {
+	visibility:inherit;
+	padding:0 0 0 0px;
+	position:relative;
+	left:15px;
+	top:1px;
+	width:664px;
+	height:46px;
+}
+.cLine11 {visibility:visible;overflow:hidden;position:absolute;z-index:26;left:377px;top:1039px;}
+.cLMImageLine11 {width:240px;height:13px;border:0px;}
+.cText1 {visibility:visible;position:absolute;z-index:27;left:367px;top:464px;width:548px;height:239px;}
+.cLMTxtText1 {visibility:inherit;padding:0 0 0 0px;position:relative;left:0px;top:0px;width:548px;height:239px;}
+.cBox2 {visibility:visible;overflow:hidden;position:absolute;z-index:28;left:31px;top:439px;}
+.cLMImageBox2 {width:297px;height:650px;border:0px;}
+.cLine4 {visibility:visible;overflow:hidden;position:absolute;z-index:29;left:55px;top:538px;}
+.cLMImageLine4 {width:240px;height:13px;border:0px;}
+.cLine3 {visibility:visible;overflow:hidden;position:absolute;z-index:30;left:55px;top:477px;}
+.cLMImageLine3 {width:240px;height:13px;border:0px;}
+.cText25 {visibility:visible;position:absolute;z-index:31;left:78px;top:449px;width:134px;height:13px;}
+.cLMTxtText25 {visibility:inherit;padding:0 0 0 0px;position:relative;left:0px;top:0px;width:134px;height:13px;}
+.cBut2 {visibility:visible;overflow:hidden;position:absolute;z-index:32;left:118px;top:494px;}
+.cLMButtonBut2 {width:100px;height:27px;border:0px;}
+.cBox3 {visibility:visible;overflow:hidden;position:absolute;z-index:33;left:43px;top:401px;}
+.cLMImageBox3 {width:293px;height:40px;border:0px;}
+.cText8 {visibility:visible;position:absolute;z-index:34;left:93px;top:406px;width:143px;height:18px;}
+.cLMTxtText8 {visibility:inherit;padding:0 0 0 0px;position:relative;left:0px;top:0px;width:143px;height:18px;}
+.cBox10 {visibility:visible;overflow:hidden;position:absolute;z-index:35;left:651px;top:789px;}
+.cLMImageBox10 {width:306px;height:300px;border:0px;}
+.cFlashVideo1 {visibility:visible;overflow:hidden;position:absolute;z-index:36;left:668px;top:846px;}
+.cLine2 {visibility:visible;overflow:hidden;position:absolute;z-index:37;left:677px;top:837px;}
+.cLMImageLine2 {width:240px;height:13px;border:0px;}
+.cLine7 {visibility:visible;overflow:hidden;position:absolute;z-index:38;left:683px;top:1053px;}
+.cLMImageLine7 {width:240px;height:13px;border:0px;}
+.cAni1 {visibility:visible;overflow:hidden;position:absolute;z-index:39;left:375px;top:847px;}
+.cLMIAnimAni1 {width:239px;height:185px;border:0px;}
+.cImg2 {visibility:visible;overflow:hidden;position:absolute;z-index:41;left:370px;top:756px;}
+.cLMImageImg2 {width:20px;height:20px;border:0px;}
+.cImg5 {visibility:visible;overflow:hidden;position:absolute;z-index:42;left:675px;top:756px;}
+.cLMImageImg5 {width:20px;height:20px;border:0px;}
+.cImg6 {visibility:visible;overflow:hidden;position:absolute;z-index:43;left:58px;top:406px;}
+.cLMImageImg6 {width:20px;height:20px;border:0px;}
+.cImg7 {visibility:visible;overflow:hidden;position:absolute;z-index:44;left:357px;top:407px;}
+.cLMImageImg7 {width:20px;height:20px;border:0px;}
